@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Boxuan-Yu-Portfolio.github.io/al-folio/sitemap.xml
+Sitemap: https://Boxuan-Yu-Portfolio.github.io/sitemap.xml
