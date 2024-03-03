@@ -20,3 +20,7 @@ social: true # includes social icons at the bottom of the page
 B.A. in Sociology and International Relations (2020 - 2024)
 
 Research Interests: Research Methods for Politics, Political Theory, Sociological Theory, Statistics for Social Research, Race and Ethnicity.
+
+Contacts:
+Email: by2048@nyu.edu
+Phone number: (917) 399-2305
